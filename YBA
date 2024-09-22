@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vezise/vezzyscripts/main/xenonv3_source"))()
+https://cdn.discordapp.com/attachments/1271902637003903078/1272011644628893706/XenonConfig.json?ex=66f0cba8&is=66ef7a28&hm=7ec763d1f3374d8fac04e3bb3fbbf48cae27e504278d9d6383ad312f6e5f0329&
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vezise/vezzyscripts/main/ybaisassv3"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vezise/vezzyscripts/main/ybadestroyer"))()
